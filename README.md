@@ -1,4 +1,4 @@
 marcemira-blog
 ==============
 
-A repository to storage my blog posts
+A repo to store my blog posts, thanks for the <3 github!
